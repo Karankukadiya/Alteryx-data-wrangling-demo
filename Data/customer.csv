@@ -1,0 +1,12 @@
+customer_id,customer_name,gender,city,state,segment
+C001,Aarav Shah,Male,Ahmedabad ,Gujarat,Consumer
+C002,Diya Patel,Female,Surat,Gujarat,Corporate
+C003,Rahul Mehta,Male,Mumbai,Maharashtra,Consumer
+C003,Rahul Mehta,Male,Mumbai,Maharashtra,Consumer
+C004,Sneha Joshi,Female,Pune,Maharashtra,Home Office
+C005, Kabir Verma,Male,Jaipur,Rajasthan,Consumer
+C006,Isha Nair,Female,,Kerala,Corporate
+C007,Yash Kumar,Male,Delhi,Delhi,Consumer
+C008,Priya Singh,Female,Lucknow,Uttar Pradesh,Corporate
+C009,Arjun Rao,Male,Bengaluru,Karnataka,Consumer
+C010,Meera Das,Female,Kolkata,West Bengal,Home Office

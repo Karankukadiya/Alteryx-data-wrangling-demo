@@ -1,0 +1,12 @@
+product_id,product_name,category,sub_category,unit_price
+P101,Laptop,Electronics,Computers,250.0
+P102,Phone,Electronics,Mobiles,1200.0
+P103,Headphones,Electronics,Audio,150.0
+P104,Chair,Furniture,Office,800.0
+P105,Notebook,Stationery,Paper,50.0
+P106,Monitor,Electronics,Displays,550.0
+P106,Monitor,Electronics,Displays,550.0
+P107,Desk,Furniture,Office,375.0
+P108,Printer,Electronics,Office Devices,300.0
+P109,Backpack,Accessories,Bags,950.0
+P110,Pen Set,Stationery,Writing,150.0
